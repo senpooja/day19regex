@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\bin\Debug\net6.0\uc-8regex.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\bin\Debug\net6.0\uc-8regex.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\bin\Debug\net6.0\uc-8regex.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\bin\Debug\net6.0\uc-8regex.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\bin\Debug\net6.0\uc-8regex.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\refint\uc-8regex.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\uc-8regex.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-8regex\obj\Debug\net6.0\ref\uc-8regex.dll
