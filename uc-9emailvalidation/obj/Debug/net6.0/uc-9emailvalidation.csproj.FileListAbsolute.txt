@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\bin\Debug\net6.0\uc-9emailvalidation.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\bin\Debug\net6.0\uc-9emailvalidation.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\bin\Debug\net6.0\uc-9emailvalidation.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\bin\Debug\net6.0\uc-9emailvalidation.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\bin\Debug\net6.0\uc-9emailvalidation.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\refint\uc-9emailvalidation.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\uc-9emailvalidation.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\uc-9emailvalidation\obj\Debug\net6.0\ref\uc-9emailvalidation.dll
