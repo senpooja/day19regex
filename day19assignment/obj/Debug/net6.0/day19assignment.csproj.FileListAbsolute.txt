@@ -1,0 +1,15 @@
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\bin\Debug\net6.0\day19assignment.exe
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\bin\Debug\net6.0\day19assignment.deps.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\bin\Debug\net6.0\day19assignment.runtimeconfig.json
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\bin\Debug\net6.0\day19assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\bin\Debug\net6.0\day19assignment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.csproj.AssemblyReference.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.AssemblyInfoInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.AssemblyInfo.cs
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.csproj.CoreCompileInputs.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\refint\day19assignment.dll
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.pdb
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\day19assignment.genruntimeconfig.cache
+C:\Users\pooja\Desktop\empmanagementsystem\empmanagementsystem\day19assignment\day19assignment\obj\Debug\net6.0\ref\day19assignment.dll
